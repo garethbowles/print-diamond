@@ -1,5 +1,6 @@
 ## Diamond Printer
-Print a diamond of width w, indented by o spaces
+Print a diamond of width w, indented by o spaces.
+
 w must be an odd number.
 
 ## Run
